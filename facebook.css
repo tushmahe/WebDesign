@@ -1,0 +1,153 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  header{
+    background: #39589b;
+    width: 1349px;
+    height: 86px;
+    border-bottom: 3px solid #415A82;
+  }
+  .header-control{
+    width: 1349px;
+    height: 86px;
+  }
+  .facebook img{
+    height: 42px;
+    width: 172px;
+    margin: 28px 400px 20px 185px;
+  }
+  
+  .email{
+    margin: 19px 0px 20px 0px;
+  }
+  #inemail{
+    color: #ffffff; 
+    font-family: Tahoma; 
+    font-size: 12px;
+  }
+  #loggedin{
+    color: #7e8ec1; 
+    font-family: Tahoma; 
+    font-size: 12px;
+  }
+  .password{
+    margin: 19px 16px 20px 18px;
+  }
+  #inpassword{
+    color: #ffffff; 
+    font-family: Tahoma; 
+    font-size: 12px;
+  }
+  #forgotpassword{
+    color: #7e8ec1; 
+    font-family: Tahoma; 
+    font-size: 12px;
+  }
+  .button{
+    margin: 30px 160px 31px 0px;
+  }
+  #login{
+    color: #ffffff; 
+    background: #6875a2; 
+    border: 1px solid #252c5a; 
+    font-family: Tahoma; 
+    font-size: 12px;
+    height: 20px;
+    width: 50px;
+  }
+  body{
+    background: #dbd9dc;
+    width: 1349px;
+    height: 579px;
+  }
+  .facebook1 img{
+    height: 334px;
+    width: 515px;
+    margin: 63px 109px 189px 150px;
+  }
+  .signup{
+    margin: 0px 367px 25px 0px;
+  }
+  .credentials{
+    margin: 0px 187px 300px 0px;
+  }
+  #Firstname{
+    height: 35px; 
+    width: 191px; 
+    margin-bottom: 10px; 
+    margin-right: 10px; 
+    border-radius: 5px; 
+    border-color: #a29fa8;
+  }
+  #Lastname{
+    height: 35px;
+    width: 191px; 
+    margin-bottom: 10px;
+    border-radius: 5px; 
+    border-color: #a29fa8;
+  }
+  #Emailormobilenumber{
+    height: 35px; 
+    width: 400px; 
+    margin-bottom: 10px;
+    border-radius: 5px; 
+    border-color: #a29fa8;
+  }
+  #Newpassword{
+    height: 35px; 
+    width: 400px; 
+    margin-bottom: 15px;
+    border-radius: 5px; 
+    border-color: #a29fa8;
+  }
+  #DOBMonth{
+    height: 30px;
+    border: 1px solid #a29fa8;
+    margin-right:0px;
+  }
+  #DOBDay{
+    height: 30px;
+    border: 1px solid #a29fa8;
+    margin-left: 0px;
+    margin-right: 0px;
+  }
+  #DOBYear{
+    height: 30px;
+    border: 1px solid #a29fa8;
+    margin-left: 0px;
+    margin-right: 6px;
+  }
+  #Birthday{
+    font-size: 20px;
+    font-family: Tahoma; 
+  }
+  .birthday{
+    width: 151px;
+    margin-bottom: 20px;
+  }
+  #birthday{
+    font-size: 11px;
+    font-family: Tahoma; 
+    color: #39589b;
+  }
+  .gender{
+    margin-bottom: 20px;
+  }
+  .tc{
+    margin-right: 250px;
+    margin-bottom: 25px;
+  }
+  .button_signup{
+    margin-bottom: 65px;
+  }
+  #signup{
+    height: 37px;
+    width: 192px;
+    background: #56822d;
+    border-radius: 5px;
+    border: 1px solid #325012;
+    font-size: 20px;
+    color: #ffffff;
+    font-family: Tahoma;
+  }
